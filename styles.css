@@ -1,0 +1,29 @@
+.all {
+    border: 2px dashed blue;
+    background-color: yellow;
+}
+
+.gulshan {
+    border: 5px solid red;
+    background-color: aqua;
+    /* width: 500px;
+    height: 500px; */
+    padding: 20px 40px;
+    margin: 40px 100px;
+}
+
+.info {
+    background-color: brown;
+    border: 20px solid purple;
+    border-radius: 30px;
+}
+
+.info h2 {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.gulshan-character {
+    background-color: salmon;
+    border: 2px dashed mediumvioletred;
+}
